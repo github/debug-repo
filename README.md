@@ -1,6 +1,6 @@
 # WARNING
 
-This is a copy of the github/fetch repo that is used for debugging purposes only. Please contact support@github.com or check out github-debug.com for more details.
+This is a copy of the github/fetch repo that is used for debugging purposes only. Please check out github-debug.com for more details.
 
 # window.fetch polyfill
 
